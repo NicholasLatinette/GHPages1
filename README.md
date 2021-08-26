@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-Website: <a target=_blank>https://nicholaslatinette.github.io/GHPages1/</a>
+Website: <a target="_blank">https://nicholaslatinette.github.io/GHPages1/</a>
 
 You can use the [editor on GitHub](https://github.com/NicholasLatinette/GHPages1/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
